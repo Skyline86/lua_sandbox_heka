@@ -67,7 +67,7 @@ else()
         #zzh update
         #GIT_REPOSITORY https://github.com/trink/lua.git
         #GIT_TAG 57d3e82ef270b20dc976f3a6001439589c807793
-        GIT_REPOITORY https://github.com/Skyline86/lua_heka.git
+        GIT_REPOSITORY https://github.com/Skyline86/lua_heka.git
         GIT_TAG master
         CMAKE_ARGS ${SANDBOX_CMAKE_ARGS}
         INSTALL_ARGS ${INST_ARGS}
